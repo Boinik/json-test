@@ -1,4 +1,4 @@
-[{"id":1,"first_name":"Zia","last_name":"Pendergast","email":"zpendergast0@bing.com","gender":"Female"},
+{"data":[{"id":1,"first_name":"Zia","last_name":"Pendergast","email":"zpendergast0@bing.com","gender":"Female"},
 {"id":2,"first_name":"Diena","last_name":"Lightwing","email":"dlightwing1@scientificamerican.com","gender":"Female"},
 {"id":3,"first_name":"Keely","last_name":"Baudino","email":"kbaudino2@twitter.com","gender":"Female"},
 {"id":4,"first_name":"Vasili","last_name":"Ord","email":"vord3@tinypic.com","gender":"Male"},
@@ -997,4 +997,4 @@
 {"id":997,"first_name":"Kareem","last_name":"Reisen","email":"kreisenro@loc.gov","gender":"Agender"},
 {"id":998,"first_name":"Dorette","last_name":"Bumpas","email":"dbumpasrp@cloudflare.com","gender":"Female"},
 {"id":999,"first_name":"Merissa","last_name":"Beckley","email":"mbeckleyrq@stumbleupon.com","gender":"Female"},
-{"id":1000,"first_name":"Nixie","last_name":"Taynton","email":"ntayntonrr@themeforest.net","gender":"Female"}]
+{"id":1000,"first_name":"Nixie","last_name":"Taynton","email":"ntayntonrr@themeforest.net","gender":"Female"}]}
